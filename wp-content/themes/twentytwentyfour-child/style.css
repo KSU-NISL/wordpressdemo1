@@ -1,0 +1,13 @@
+/**
+Theme Name: Twenty Twenty-Four child
+Theme URI: https://wordpress.org/
+Version: 1.0
+Requires at least: 5.3
+Tested up to: 5.9.1
+Author: ksu
+Template: twentytwentyfour
+Text Domain:  twentytwentyfourchild
+**/
+h1.wp-block-heading{
+  color: blue;  
+}
